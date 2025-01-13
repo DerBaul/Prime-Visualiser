@@ -28,7 +28,7 @@ Das Projekt besteht aus drei Dateien:
 
 ### Kompilieren
 
-Befinde dich mit dem Terminal im Projekt Ordner. "aufgabe2ext"
+Befinde dich mit dem Terminal im Projekt Ordner.
 
 ```bash
 mvn compile
